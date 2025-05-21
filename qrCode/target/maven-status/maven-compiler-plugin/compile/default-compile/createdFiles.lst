@@ -1,0 +1,5 @@
+io\hdmpedro\qrcode\MainClass.class
+io\hdmpedro\qrcode\controller\GerarController.class
+io\hdmpedro\qrcode\view\MainFrame.class
+io\hdmpedro\qrcode\model\QrCode.class
+io\hdmpedro\qrcode\util\GeradorQrCode.class
